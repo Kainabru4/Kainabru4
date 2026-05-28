@@ -17,10 +17,10 @@
 
 ## 📌 Featured Projects
 
-### 🔬 [Prediction of Diabetes](https://github.com/Kainabru4/Prediction-of-diabeties)
-A machine learning pipeline to predict the likelihood of diabetes using health data.  
-**Tech:** Python, scikit-learn, Pandas, Matplotlib  
-**Highlights:** Data preprocessing, model evaluation, feature importance
+### 🛒 Business Sales Analytics Pipeline
+An end-to-end Python ETL pipeline that generates synthetic retail sales data, loads it into PostgreSQL, and performs business analytics with SQL queries.
+**Tech:** Python, Pandas, SQLAlchemy, PostgreSQL, Faker
+**Highlights:** ETL pipeline development, schema validation, batch data loading, sales analytics queries
 
 ### 📈 [WIG20 Stock Analysis](https://github.com/Kainabru4/WIG20-Stock-Analysis)
 Data analysis and visualization of WIG20 stock trends.  
