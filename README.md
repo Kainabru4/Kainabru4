@@ -17,7 +17,7 @@
 
 ## 📌 Featured Projects
 
-### 🛒 Business Sales Analytics Pipeline
+### 🛒 [Business Sales Analytics Pipeline](https://github.com/Kainabru4/Business-Sales-Analytics-Pipeline)
 An end-to-end Python ETL pipeline that generates synthetic retail sales data, loads it into PostgreSQL, and performs business analytics with SQL queries.
 **Tech:** Python, Pandas, SQLAlchemy, PostgreSQL, Faker
 **Highlights:** ETL pipeline development, schema validation, batch data loading, sales analytics queries
