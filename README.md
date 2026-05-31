@@ -11,7 +11,6 @@
 - 🧠 **Machine Learning** (Classification, Regression, Clustering)
 - 🛢️ **SQL** (data extraction, transformation, and reporting)
 - 📊 Data Visualization & EDA
-- 📚 Always learning: Deep Learning, NLP
 
 ---
 
