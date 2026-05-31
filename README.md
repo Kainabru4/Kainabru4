@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Filip
 
 🎯 Aspiring Data Scientist with background in **Machine Learning**, **Python**, and **SQL**  
-🚀 Currently open to data science roles and exciting collaborations
+🚀 Currently open to data science and data analyst roles
 
 ---
 
